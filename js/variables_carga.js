@@ -1,0 +1,11 @@
+var tanque_x = 0;
+var tanque_y = 0;
+var marcianos_left = 10;
+var marcianos_top = 30;
+var contenedor_juego = "";
+var sentido_movimiento = 1;
+var balas = [];
+var n_balas = 0;
+const n_marcianos = 900; //Es el intervalo sobre el cual se generan. No es el número de marcianos.
+var movimiento_vertical = 20;
+var puntaje = 0;

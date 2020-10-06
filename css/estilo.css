@@ -1,0 +1,77 @@
+
+body
+{
+    background-color: black;
+}
+
+#contenedor-juego
+{
+    position: absolute;
+    border: 1px solid;
+    width: 1000px;
+    height: 500px;
+    background: white;
+}
+
+#tanque
+{
+    position: absolute;
+    top: 450px;
+
+}
+
+#contenedor-marcianitos
+{
+    position: absolute;
+   
+}
+
+.bala
+{
+    position: absolute;
+    
+}
+
+#tabla_puntaje
+{
+
+    position: absolute;
+    top: 520px;
+    left: 60px;
+
+}
+
+.puntaje_txt
+{
+
+    color: white;
+    position: absolute;
+    top: 520px;
+
+}
+
+.mensaje
+{
+
+    text-align: center;
+    margin-top: 250px;
+    color: white;
+
+}
+
+.link
+{
+
+    color: white;
+    margin: auto;
+
+}
+
+#boton
+{
+
+    position: absolute;
+    top: 520px;  
+    left: 250px;
+
+}
